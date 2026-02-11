@@ -1,2 +1,2 @@
 # ServingSouthWalesRPC
-Repo for SSW Bots
+Application Bot Code
